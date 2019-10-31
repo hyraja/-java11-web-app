@@ -2,4 +2,7 @@
 
 
  connect your aws linux instances using putty in windows setup.
+ update all the packages.
+ # apt-get uodate
+ 
 
