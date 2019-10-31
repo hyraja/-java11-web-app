@@ -12,6 +12,11 @@
  # sudo su -
  createe directory inside /usr
  # mkdir /usr/java
- 
+ change directory to java directory
+ # cd java
+ install wget using apt-get command.
+ # apt-get install wget
+ install java using wget
+ # 
  
 
