@@ -3,6 +3,15 @@
 
  connect your aws linux instances using putty in windows setup.
  update all the packages.
- # apt-get uodate
+ # apt-get update
+ check java is available or not.
+ # java -version
+ go to root directory .
+ # cd ../..
+ goto root user.
+ # sudo su -
+ createe directory inside /usr
+ # mkdir /usr/java
+ 
  
 
