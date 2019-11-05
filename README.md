@@ -1,2 +1,7 @@
-# java11-web-app
-# Step by step Deployment of  java11 app in tomcat 9 server in aws linux instances.
+# Steps
+Install Docker.
+Clone this repository 
+cd 'java11-web-app'
+$docker build -t mywebapp .
+$docker run -p 8080:8080 mywebapp
+awsec2 instances dns:8080
